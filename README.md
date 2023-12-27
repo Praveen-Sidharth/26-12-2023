@@ -18,3 +18,4 @@ git push -u origin main
 * I have an empty folder in my file explorer and opened the folder in CMD. After opened CMD, I just copy pasted
 and executed the lines one by one.
    * This first line `echo "# 26-12-2023" >> README.md` created a README.md file with the content `"# 26-12-2023"`.
+   * This second line `git init` created an empty local git repsitory.
