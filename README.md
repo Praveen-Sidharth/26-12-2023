@@ -19,3 +19,4 @@ git push -u origin main
 and executed the lines one by one.
    * This first line `echo "# 26-12-2023" >> README.md` created a README.md file with the content `"# 26-12-2023"`.
    * This second line `git init` created an empty local git repsitory.
+   * This third line `git add README.md` added the README file to the staging area from working folder.
