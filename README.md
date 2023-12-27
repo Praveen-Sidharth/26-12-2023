@@ -4,7 +4,7 @@ This repository is created for giving demo on git and github
 
 Steps I followed for creating this repository:
 
-* Firstly, I created an empty repository named `26-12-2023` in [Github] (https://github.com/new).
+* Firstly, I created an empty repository named `26-12-2023` in [Github](https://github.com/new).
 * Copied the contents from the page titled `create a new repository on the command line` and the lines are
 ```
 echo "# 26-12-2023" >> README.md
